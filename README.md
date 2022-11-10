@@ -1,1 +1,15 @@
 # Election_Analysis
+
+## Overview
+The purpose of this analysis is to create an automated process using Python that will can be used to audit elections. More specifically, it will report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the vote count. It then aims to provide an analsis of votes based on county by returning the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. 
+
+## Election Audit Results
+- Total Votes: 369,711
+- County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+- Denver county had the largest number of votes.
+- Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
