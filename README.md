@@ -13,3 +13,7 @@ Arapahoe: 6.7% (24,801)
 - Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
+- Diana DeGette won the election with 272,892 votes and 73.8% of the total votes.
+
+## Election Audit Summary
+This script can be used to audit any election by changing the file path located in line 9 to reference the .csv file containing the results that you would like to analyze. One way the script could be modified is by making it more simple and intuitive for someone unfamiliar with coding to import their csv file. It can also be modified, as mentioned above, by changing the file path located in linee 9 to reference a new .csv file.
