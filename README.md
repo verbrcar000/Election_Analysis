@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview
-The purpose of this analysis is to create an automated process using Python that can be used to audit elections. More specifically, it will report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the vote count. It then aims to provide an analsis of votes based on county by returning the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. 
+The purpose of this analysis is to create an automated process using Python that can be used to audit elections. More specifically, it will report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the vote count. It then aims to provide an analysis of votes based on county by returning the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. 
 
 ## Election Audit Results
 - Total Votes: 369,711
